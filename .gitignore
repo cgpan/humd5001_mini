@@ -1,0 +1,19 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Python virtual environments and compiled files
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore environment variables / sensitive data
+.env
+.env.local
+
+# Ignore OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Ignore local log files
+*.log
