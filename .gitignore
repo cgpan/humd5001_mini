@@ -17,3 +17,6 @@ Thumbs.db
 
 # Ignore local log files
 *.log
+
+# Instructor-only: keep assignment answer keys / solutions out of the student repo
+assignment_solutions/
